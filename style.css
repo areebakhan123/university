@@ -1,0 +1,65 @@
+
+.library img{
+    height: 520px;
+    width: 100%;
+}
+.login,.signup{
+    color: white;
+    background-color: #f9903a;
+    padding: 8px 15px 8px 15px;
+    border: none;
+}
+.signup{
+     background-color: #ff3115;
+}
+.major-btn{
+    color: white;
+    background-color:#043867;
+    border: none;
+    padding: 10px 20px 10px 20px;
+}
+.march,.april{
+    color:white;
+    background-color:#043867;
+    padding: 20px 20px 20px 20px;
+    border-radius: 80px;
+    font-size: xx-large;
+    border: none;
+}
+.poetry2,.picnic2{
+     display: inline-block;
+     color:#043867;
+}
+.anchor{
+    color:gray; 
+}
+.august{
+    color:white;
+    background-color:#f6d652;
+    padding: 20px 20px 20px 20px;
+    border-radius: 80px;
+    font-size: xx-large;
+    border: none;
+}
+.award2,.test-post2{
+    display: inline-block;
+}
+.blogs{
+    background-color: #faf2c8;
+}
+.blog-btn{
+    background-color:#f6d652;
+    color: white;
+    border: none;
+    padding: 10px 20px 10px 20px;
+}
+.transportation{
+   background-color: transparent;
+   color: white;
+}
+.events{
+    display: inline-block;
+}
+.fonts{
+    font-size: 250%;
+}
